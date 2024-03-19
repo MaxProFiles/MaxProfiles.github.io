@@ -33,3 +33,6 @@ button {
 #message-container {
     margin-top: 20px;
 }
+body {
+    background-color: #ffb6c1; /* Código hexadecimal para el color rosa pastel */
+}
