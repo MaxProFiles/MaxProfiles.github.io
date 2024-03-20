@@ -1,0 +1,90 @@
+/* Estilos personalizados para la página te_amo.html */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Color de fondo */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: justify;
+    background-color: #ffffff; /* Fondo blanco */
+    padding: 20px; /* Agrega espacio alrededor del contenido */
+    border-radius: 10px; /* Añade bordes redondeados al contenedor */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agrega una sombra ligera */
+    max-width: 800px; /* Ajusta el ancho máximo del contenedor */
+    margin: 50px auto; /* Centra horizontalmente el contenedor */
+    padding-bottom: 50px; /* Ajusta el espacio inferior para que el mensaje no quede cortado */
+    position: relative;
+}
+
+p {
+    font-size: 18px; /* Tamaño del texto */
+    line-height: 1.5; /* Espaciado entre líneas */
+    margin-bottom: 20px; /* Espaciado entre párrafos */
+}
+
+h1 {
+    font-size: 32px; /* Tamaño del encabezado */
+    font-family: 'Halant', serif; /* Fuente de letra */
+    font-weight: bold; /* Negrita */
+}
+
+.exclamacion {
+    font-size: 32px; /* Tamaño de las letras */
+    font-family: 'Halant', serif; /* Fuente de letra */
+    font-weight: bold; /* Negrita */
+    color: #000000; /* Color rojo para destacar */
+}
+/* Estilos para la fuente Halant */
+
+/* Estilos para la fuente Brush Script MT */
+
+.brush-script {
+    font-family: "Brush Script MT", cursive; /* Fuente de letra Brush Script MT */
+    font-weight: 10; /* Hace la fuente más delgada */
+    font-size: 50px; /* Tamaño de la letra */
+    margin-left: 100px; /* Márgenes de 20px alrededor del mensaje */
+    margin-right: 100px; /* Márgenes de 20px alrededor del mensaje */
+    margin-top: 100px; /* Márgenes de 20px alrededor del mensaje */
+}
+.mensaje-largo {
+    font-family: Arial, sans-serif; /* Opcional: puedes cambiar la fuente si lo deseas */
+    font-size: 18px; /* Tamaño de la letra */
+    line-height: 1.5; /* Espaciado entre líneas */
+    margin-left: 100px; /* Márgenes de 20px alrededor del mensaje */
+    margin-right: 100px; /* Márgenes de 20px alrededor del mensaje */
+    margin-top: 10px; /* Márgenes de 20px alrededor del mensaje */
+
+
+}
+.fecha {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    font-family: "Brush Script MT", cursive; /* Fuente de letra Brush Script MT */
+    margin-left: 100px; /* Márgenes de 20px alrededor del mensaje */
+    margin-right: 110px; /* Márgenes de 20px alrededor del mensaje */
+    margin-top: 100px; /* Márgenes de 20px alrededor del mensaje */
+    color: #000000; /* Color rojo para destacar */
+
+}
+.teamo{
+    
+    font-family: "Brush Script MT", cursive; /* Fuente de letra Brush Script MT */
+    font-weight: 1; /* Hace la fuente más delgada */
+    font-size: 50px; /* Tamaño de la letra */
+    margin-left: 100px; /* Márgenes de 20px alrededor del mensaje */
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Alineación horizontal centrada */
+}
+
+.corner-img2{
+    width: 150px;
+    height: 200px;
+}
